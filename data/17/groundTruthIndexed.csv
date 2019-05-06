@@ -1,0 +1,15 @@
+evento, inicio, fim,startIndexinAccLinear,endIndexinAccLinear
+troca_faixa_direita_agressiva,16.1,18.5,806,958
+troca_faixa_direita_agressiva,25.1,27.6,1264,1416
+freada_agressiva,141,143.3,7173,7325
+freada_agressiva,151.3,153.2,7683,7834
+freada_agressiva,165.9,168,8396,8599
+freada_agressiva,220.6,222.6,11198,11349
+freada_agressiva,234,236.2,11911,12062
+freada_agressiva,248.1,250.8,12624,12776
+aceleracao_agressiva,288,290.6,14661,14813
+aceleracao_agressiva,304.6,308.2,15476,15730
+aceleracao_agressiva,324.8,329.1,16495,16800
+aceleracao_agressiva,361,364.7,18380,18583
+aceleracao_agressiva,379.6,384.5,19297,19601
+aceleracao_agressiva,395.7,400.2,20112,20417

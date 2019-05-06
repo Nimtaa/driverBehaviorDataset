@@ -1,0 +1,17 @@
+evento, inicio, fim,startIndexinAccLinear,endIndexinAccLinear
+evento_nao_agressivo,2,6.5,72,326
+curva_direita_agressiva,19.5,23.5,938,1192
+evento_nao_agressivo,30,33.5,1498,1701
+curva_direita_agressiva,95,98,4809,5012
+curva_esquerda_agressiva,247,251.5,12551,12805
+curva_esquerda_agressiva,348.7,352.3,17696,17950
+evento_nao_agressivo,485,489,24674,24927
+curva_esquerda_agressiva,496,499.5,25234,25437
+curva_direita_agressiva,587,590,29869,30072
+curva_esquerda_agressiva,750,753.8,38172,38375
+curva_direita_agressiva,840.7,844,42756,43010
+curva_direita_agressiva,980,983.2,49887,50090
+curva_esquerda_agressiva,1087.4,1090.9,55338,55541
+troca_faixa_direita_agressiva,1139.8,1142,57987,58190
+troca_faixa_direita_agressiva,1201,1202.9,61145,61246
+troca_faixa_direita_agressiva,1211.4,1213.5,61655,61807
